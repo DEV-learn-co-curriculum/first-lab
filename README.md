@@ -5,9 +5,9 @@ languages: bash
 
 # Your First Lab
 
-On Ironboard, labs are exercises you have to complete.
+***On Ironboard, labs are exercises you have to complete.
 
-The goal of this lab is to practice the workflow to complete a lab and to see if you can make a new file or directory using terminal.
+The goal of this lab is to practice the workflow to complete a lab and to see if you can make a new file or directory using terminal.*
 
 **Make sure you accept the invite on [Github](https://github.com/flatiron-school-ironboard) to the IronBoard team**
 

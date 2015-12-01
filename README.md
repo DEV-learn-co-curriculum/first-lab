@@ -145,3 +145,5 @@ Open the lab in github (the end of step 7 above).
 4. Look on Ironboard again and you should see a confirmation of that pull request being opened and a remote build passing:
 
 ![PR & Remote Build](https://s3-us-west-2.amazonaws.com/readme-photos/ib-4.png)
+
+<a href='https://learn.co/lessons/first-lab' data-visibility='hidden'>Learn.co resource</a>
